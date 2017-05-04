@@ -1,5 +1,11 @@
 # gatekeeper
-A custamizable bot framework.
+A custamizable bot framework.  
+I work with [Golem](https://github.com/tkhr0/golem).
+
+## features
+- Muti platform support and user management
+- Communication state management
+- Active
 
 ## motion
 
